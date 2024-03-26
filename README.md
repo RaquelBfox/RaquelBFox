@@ -1,16 +1,21 @@
-### Hi there 👋
+# [RaquelBFox] 
+<img src="https://media1.tenor.com/m/zKFmUDxsLnsAAAAC/coffee-cat.gif" width="500px">
 
-<!--
-**RaquelBfox/RaquelBFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou <Raquel Mendonça>, <strong>14 anos, cristã, musicista, estudante de desenvolvimento de sistemas no Senac Mediotec</strong> 👨🏻‍💻 
 
-Here are some ideas to get you started:
+- 🚀 Atualmente estou aprendendo: <strong>Desenvolvimento de Sistemas pelo curso do Senac de encino médio e curso técnico</strong> 
+- 💬 Pergunte-me sobre: <strong>Cartoon como Gravity Falls e Steven Universe, Filmes/livros como O Hobbit e Sherlock Holmes e atividades como desenhar, ou esportes como arco e flecha</strong>
+- 📣 Nós podemos falar em: <strong>Português Brasil e um pouco de Inglês</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <a href="#" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+
+  <a href="#" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+
+</div>
