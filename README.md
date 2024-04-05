@@ -1,5 +1,5 @@
 # [RaquelBFox] 
-<img src="https://media1.tenor.com/m/zKFmUDxsLnsAAAAC/coffee-cat.gif" width="500px">
+<img src="https://media1.tenor.com/m/zKFmUDxsLnsAAAAC/coffee-cat.gif" width="400px">
 
 Eu sou <Raquel Mendonça>, tenho 14 anos e criei esta conta no github para prosseguir nos meus estudos em desenvolvimento de sistemas pelo Senac MedioTec. gosto bastante dos assuntos de TI, mas acho que nunca trabalharia com algo assim, na verdade eu sonho em ser Egenheira Agrônoma do Exército e depois ter minha propria fazenda; bem longe de TI, né?
 
